@@ -1,2 +1,2 @@
 # lab
-Vlabs lab project
+Installing Hadoop on AWS
