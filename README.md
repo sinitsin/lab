@@ -1,2 +1,2 @@
 # lab
-Installing Hadoop on AWS
+[Installing MapR Hadoop on AWS](https://github.com/sinitsin/lab/wiki)
